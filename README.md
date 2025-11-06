@@ -1,5 +1,4 @@
-[https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin](https://github.com/tyanzuq2811/BTL_Quan_ly_doan_vien?tab=readme-ov-file#---------faculty-of-information-technology-dainam-university----)
-https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin
+🎓 Faculty of Information Technology (DaiNam University)
 1. Giới thiệu
 Hệ thống Quản lý Đoàn viên trong trường Đại học được xây dựng nhằm hỗ trợ công tác quản lý, theo dõi và đánh giá hoạt động của Đoàn Thanh niên trong môi trường giáo dục đại học. Thay vì quản lý thủ công bằng giấy tờ hay các tệp Excel rời rạc, hệ thống mang đến một giải pháp tập trung, hiện đại và dễ sử dụng.
 2. Các công nghệ được sử dụng
