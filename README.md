@@ -38,10 +38,29 @@ Thư viện JS:
   <img width="1881" height="969" alt="image" src="https://github.com/user-attachments/assets/94f616c6-1c5e-423b-9e7c-0ecfc639e741" />
 ### Trang dashboard admin:
 <img width="1880" height="967" alt="image" src="https://github.com/user-attachments/assets/8b58a464-8dae-4551-b789-e8d0a440cd0f" />
+### Trang quản lý phòng:
+<img width="1897" height="970" alt="image" src="https://github.com/user-attachments/assets/96b44b79-2ceb-49d6-b2e6-45d1db95fcf4" />
+### Trang quản lý người dùng:
+<img width="1900" height="970" alt="image" src="https://github.com/user-attachments/assets/d5f7db76-edf5-4b80-98de-2a5f1f1bbe86" />
+### Trang duyệt dữ liệu người dùng:
+<img width="1900" height="967" alt="image" src="https://github.com/user-attachments/assets/030dea3b-5f12-4d92-84f4-f20dc0d19102" />
+### Trang quản lý ngành học:
+<img width="1898" height="971" alt="image" src="https://github.com/user-attachments/assets/7e5bb712-3c68-4dc5-83b6-b6269be136c5" />
+### Trang quản lý môn học:
+<img width="1899" height="967" alt="image" src="https://github.com/user-attachments/assets/641bdc54-a506-4d66-bdec-7b9d6fe58543" />
+### Trang duyệt đặt phòng:
+<img width="1898" height="972" alt="image" src="https://github.com/user-attachments/assets/aa6b8bc6-bd01-4c84-828a-9f6622a92700" />
 ### Trang dashboard Giảng Viên:
 <img width="1897" height="971" alt="image" src="https://github.com/user-attachments/assets/20f97f7b-9019-4dc9-96c9-4f3ea43361b9" />
+### Trang đặt phòng giảng viên
+<img width="1899" height="971" alt="image" src="https://github.com/user-attachments/assets/dd77525e-ce0d-4ea8-89e1-f05973b0e77f" />
+### Trang Tổng quan phòng
+<img width="1899" height="969" alt="image" src="https://github.com/user-attachments/assets/1136b256-474a-4150-8b59-5e467f6c01de" />
 ### Trang lịch học Sinh Viên:
 <img width="1897" height="967" alt="image" src="https://github.com/user-attachments/assets/89b4d34f-d723-4f8a-bb4a-7ee6c38cab0b" />
+### Trang chủ Sinh Viên:
+<img width="1898" height="969" alt="image" src="https://github.com/user-attachments/assets/dccf434b-81f8-4f8e-96ca-0018c1f365a1" />
+
 4. Cài đặt
 4.1. Cài đặt công cụ, môi trường và các thư viện cần thiết
 Tải và cài đặt XAMPP
