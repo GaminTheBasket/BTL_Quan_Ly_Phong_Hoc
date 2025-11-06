@@ -33,7 +33,7 @@ Prettier – Code Formatter
 Clone project về thư mục htdocs của XAMPP (ví dụ ổ C):
 
 cd C:\xampp\htdocs
-https://github.com/tyanzuq2811/BTL_Quan_ly_phong_hoc.git
+https://github.com/GaminTheBasket/BTL_Quan_ly_phong_hoc.git
 Truy cập project qua đường dẫn:
 👉 [http://localhost/authentication_login.](http://localhost/ql_phonghoc/index.php)
 4.3. Setup database
