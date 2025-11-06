@@ -18,6 +18,7 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
+
 1. Giới thiệu
 Hệ thống Quản lý Đoàn viên trong trường Đại học được xây dựng nhằm hỗ trợ công tác quản lý, theo dõi và đánh giá hoạt động của Đoàn Thanh niên trong môi trường giáo dục đại học. Thay vì quản lý thủ công bằng giấy tờ hay các tệp Excel rời rạc, hệ thống mang đến một giải pháp tập trung, hiện đại và dễ sử dụng.
 
@@ -35,7 +36,10 @@ Thư viện JS:
 
   
 3. Hình ảnh các chức năng:
-  <img width="1881" height="969" alt="image" src="https://github.com/user-attachments/assets/94f616c6-1c5e-423b-9e7c-0ecfc639e741" />
+### Trang chủ Sinh Viên:
+<img width="1898" height="969" alt="image" src="https://github.com/user-attachments/assets/dccf434b-81f8-4f8e-96ca-0018c1f365a1" />
+### Trang đăng nhập:
+<img width="1881" height="969" alt="image" src="https://github.com/user-attachments/assets/94f616c6-1c5e-423b-9e7c-0ecfc639e741" />
 ### Trang dashboard admin:
 <img width="1880" height="967" alt="image" src="https://github.com/user-attachments/assets/8b58a464-8dae-4551-b789-e8d0a440cd0f" />
 ### Trang quản lý phòng:
@@ -58,8 +62,7 @@ Thư viện JS:
 <img width="1899" height="969" alt="image" src="https://github.com/user-attachments/assets/1136b256-474a-4150-8b59-5e467f6c01de" />
 ### Trang lịch học Sinh Viên:
 <img width="1897" height="967" alt="image" src="https://github.com/user-attachments/assets/89b4d34f-d723-4f8a-bb4a-7ee6c38cab0b" />
-### Trang chủ Sinh Viên:
-<img width="1898" height="969" alt="image" src="https://github.com/user-attachments/assets/dccf434b-81f8-4f8e-96ca-0018c1f365a1" />
+
 
 4. Cài đặt
 4.1. Cài đặt công cụ, môi trường và các thư viện cần thiết
